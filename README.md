@@ -1,0 +1,1 @@
+# next-js-weather-app-assignment-project
